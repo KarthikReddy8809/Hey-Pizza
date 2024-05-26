@@ -1,0 +1,30 @@
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    width:100%;
+    flex-wrap:wrap;
+}
+.allButtons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.allButtons button{
+    margin:0%;
+    height:10%;
+    border-radius: 20%;
+    border-color: rgb(238, 75, 103);
+    background-color:rgb(238, 75, 103);
+    color: white;
+    text-color:white;
+}
+
+@media only screen and (max-width: 600px) {}
+
+@media only screen and (min-width: 600px) {}
+
+@media only screen and (min-width: 768px) {}
+
+@media only screen and (min-width: 992px) {}
+
+@media only screen and (min-width: 1200px) {}
